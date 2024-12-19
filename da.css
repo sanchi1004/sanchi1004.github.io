@@ -1,0 +1,25 @@
+*{
+    background: rgb(212, 132, 146);
+
+}
+
+.one{
+    color: rgb(223, 150, 209);
+    font-family: cursive;
+}
+.two{
+    color:rgb(5, 5, 5);
+    font-size: 12;
+    text-decoration: underline;
+}
+a{
+    color: red;
+    font-size: 15px;
+
+}
+a:visited{
+    color:black;
+}
+a:active{
+    color: green
+}
